@@ -1,5 +1,7 @@
 A simple Ionic CRUD application that helps to manage data from Cloud Firestore
 
+Demo: https://ionic-firestore-dn.firebaseapp.com
+
 # Prerequisites
 
 You have create a project in [Firebase](https://firebase.google.com/) with Cloud Firestore in TEST MODE.
