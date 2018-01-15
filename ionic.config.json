@@ -2,5 +2,7 @@
   "name": "ionic-firestore",
   "app_id": "",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
