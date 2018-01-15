@@ -1,6 +1,9 @@
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
 
+# Remove environment file
+src/config/env.ts
+
 *~
 *.sw[mnpcod]
 *.log

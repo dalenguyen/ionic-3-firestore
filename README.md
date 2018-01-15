@@ -21,6 +21,10 @@ npm install
 npm install --only=dev
 ```
 
+# Update the environment
+
+You need to change file **env-example.ts** to **env.ts** and update your project details from Firebase.
+
 # Run this project
 
 ```
