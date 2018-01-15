@@ -58,7 +58,7 @@ export class DatabaseProvider {
         let obj : any = [];
 
         querySnapshot
-        .foreEach((doc: any) => {
+        .forEach((doc: any) => {
           obj.push({
            id             : doc.id,
            city           : doc.data().city,
